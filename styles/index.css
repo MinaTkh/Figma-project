@@ -1,0 +1,96 @@
+.logo { 
+    font-family: Circular Std;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin-top: 37px;
+    margin-left: 80px;
+
+}
+
+.logo-dot {
+    color: #824FF1;
+}
+
+.home {
+    width: 45px;
+    height: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 273px;
+}
+
+.sign-up {
+    width: 120px;
+    height: 65px;
+    margin-top: 30px;
+    margin-left: 1412px;
+    border-radius: 6px;
+    border: none;
+    background-color: #824FF1;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+
+ }
+
+.main-title {
+    color: #1B0A42;
+    font-family: 'Ramaraja', serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px; /* 105.556% */
+    letter-spacing: 1.44px;
+    max-width: 495px;
+    width: 100%;
+    margin-top: 204px;
+    margin-left: 200px;
+}
+
+.main-text {
+    color: #9A9A9A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    letter-spacing: 0.4px;
+    max-width: 590px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.main-button {
+    background-color: #824FF1;
+    border-radius: 6px;
+    width: 152px;
+    height: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 200px;
+    margin-top: 50px
+}
+
+section {
+    display: inline-block;
+    
+    }
